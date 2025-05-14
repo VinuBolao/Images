@@ -1,0 +1,9 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <path d="M256,0 C300,60 360,40 400,80 C440,120 460,180 512,256 C460,332 440,392 400,432 C360,472 300,452 256,512 C212,452 152,472 112,432 C72,392 52,332 0,256 C52,180 72,120 112,80 C152,40 212,60 256,0 Z" fill="#e31b23"/>
+  <path d="M256,0 C212,60 152,40 112,80 C72,120 52,180 0,256 C52,180 212,60 256,0 Z" fill="#009540"/>
+  <path d="M512,256 C460,180 300,60 256,0 C300,60 460,180 512,256 Z" fill="#009540"/>
+  <text x="95" y="130" font-family="Arial" font-size="55" fill="white" font-weight="bold">A.E.</text>
+  <text transform="rotate(-40 140 270)" x="50" y="310" font-family="Arial" font-size="55" fill="white" font-weight="bold">VELO CLUBE</text>
+  <circle cx="390" cy="370" r="50" fill="#009540"/>
+  <text x="355" y="390" font-family="Arial" font-size="40" fill="white" font-weight="bold">1910</text>
+</svg>
